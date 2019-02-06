@@ -1,0 +1,11 @@
+.spiner{
+	width:100vw;
+	height: 100vh;
+	background: #444;
+	color:#fff;
+}
+.display-4 h4{
+	font-weight: normal;
+	font-size:35px;
+	margin-right: 20px;
+}
